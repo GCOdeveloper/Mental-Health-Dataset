@@ -8,6 +8,9 @@ The labelling process was divided into two phases: an initial phase with a pilot
 
 # Contact
 
-This development belongs to the MentAI (Mental health Artificial Intelligence) project. As one of the project managers of the project, the main contact of the team is Noemí Merayo, whose e-mail address is as follows:
+This development belongs to the MentAI (Mental health Artificial Intelligence) project. The main contacts of the team is Noemí Merayo, Teresa Clara González Sanguino and Alba Ayuso Lanchares, whose e-mail addresses are as follows:
 
 noemer@uva.es
+clara.gonzalez.sanguino@uva.es
+alba.ayuso@uva.es
+
